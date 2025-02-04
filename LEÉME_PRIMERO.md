@@ -1,3 +1,7 @@
+Autor: Higinio Carmona Lucas
+03 de Febrero del 2025
+Universidad Autonoma Chapingo 
+
 EXPLICACION BREVE
 En este repositorio encontraras los resultados obtenidos durante la exploracion de la placa de desarrollo de IoT, utilizando el Arduino Wifi 1010 y el Carrier Rev2.
 Para esto se realizaron varias actividades, cada una tenia la funcion de implementar las diferentes partes que contiene esta placa y de familiarizarse mejor.
